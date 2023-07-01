@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there I am @**sonee-shailendra**👋
+
+![250258123-9e6dad10-076b-4e15-aebf-5ae7ea1af8f7](https://github.com/sonee-shailendra/profile-setup/assets/66419080/74b1a070-765a-4c16-b88b-2f372afa3f3b)
+
+- ✨ I am a **software engineer** with more than 9 years of experience.
+- 🔭 I’m currently currently working as a senior consultant at LUMEN India.
 
 <!--
 **sonee-shailendra/sonee-shailendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
