@@ -5,7 +5,7 @@
 
 
 - ✨ I am a **software engineer** with more than 9 years of experience.
-- 🔭 I’m currently working as a Senior Consultant at <a href="[https://www.thoughtworks.com](https://www.lumen.com/en-in/home.html)">LUMEN India</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+- 🔭 I’m currently working as a Senior Consultant at <a href="[https://www.lumen.com/en-in/home.html](https://www.lumen.com/en-in/home.html)">LUMEN India</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
 [![Linkedin Badge](https://img.shields.io/badge/Shailendra_Sonee-blue?style=flat-square&logo=Linkedin&logoColor=white&color=blue&link=https://www.linkedin.com/in/shailendra-sonee-78444170/)](https://www.linkedin.com/in/shailendra-sonee-78444170/) [![Gmail Badge](https://img.shields.io/badge/Shailendra.Sonee%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Shailendra.Sonee@gmail.com)](mailto:Shailendra.Sonee@gmail.com) [![GitHub sonee-shailendra](https://img.shields.io/github/followers/sonee-shailendra?label=follow&style=social)](https://github.com/sonee-shailendra)
