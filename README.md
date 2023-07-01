@@ -7,7 +7,7 @@
 
 - ✨ I am a **software engineer** with more than 9 years of experience.
 - 🔭 I’m currently working as a Senior Consultant at <a href="https://www.lumen.com/en-in/home.html">LUMEN India</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
--  📍  I'm currently based at Noida, India.
+- 📍  I'm currently based at Noida, India.
 </em></p>
 
 
