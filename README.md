@@ -19,7 +19,7 @@
 
 ### 👨‍💻 Tech & Tools Preference
 
-<br />
+</br>
 
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=JAVA&logoColor=white">
 <img src="http://img.shields.io/badge/-Java_EE-F89820?style=flat&logo=JAVA&logoColor=white">
