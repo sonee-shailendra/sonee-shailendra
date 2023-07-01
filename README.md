@@ -45,6 +45,10 @@
 ### Other Languages I know
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
 
+### My Stats on GitHub
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sonee-shailendra)](https://git.io/streak-stats)
+
 ⭐️ From [@sonee-shailendra](https://github.com/sonee-shailendra)
 
 ---
