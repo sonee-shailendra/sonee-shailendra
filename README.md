@@ -36,8 +36,9 @@
 <img src="https://img.shields.io/badge/-Apache_Kafka-grey?style=flat&logo=Apache"> <img src="https://img.shields.io/badge/Docker-0693E3?style=flat&logo=docker&logoColor=white">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
 <img src="http://img.shields.io/badge/-Github-000000?style=flat&logo=github&logoColor=FFFFFF">
-<img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
+<img src="https://img.shields.io/badge/kubernetes-3371E3?style=flat&logo=kubernetes&logoColor=white">
 <img src="https://img.shields.io/badge/Jenkins-gray?style=flat&logo=jenkins">
+<img src="https://img.shields.io/badge/nginx-009900?style=flat&logo=nginx">
 
 ### Other Languages I know
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
