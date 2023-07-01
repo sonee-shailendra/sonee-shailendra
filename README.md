@@ -1,4 +1,4 @@
-<h2> Hi, I'm Shailendra Sonee! 
+<h2> Hi, I'm Shailendra Sonee! </h2>
   
 - Senior Consultant at <a href="[https://www.thoughtworks.com](https://www.lumen.com/en-in/home.html)">LUMEN India</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
