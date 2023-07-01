@@ -15,7 +15,7 @@
 
   [![Linkedin Badge](https://img.shields.io/badge/Shailendra_Sonee-blue?style=flat-square&logo=Linkedin&logoColor=white&color=blue&link=https://www.linkedin.com/in/shailendra-sonee-78444170/)](https://www.linkedin.com/in/shailendra-sonee-78444170/) [![Gmail Badge](https://img.shields.io/badge/Shailendra.Sonee%40gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:Shailendra.Sonee@gmail.com)](mailto:Shailendra.Sonee@gmail.com) [![GitHub sonee-shailendra](https://img.shields.io/github/followers/sonee-shailendra?label=follow&style=social)](https://github.com/sonee-shailendra)
 
-    <img text-align="center" src="https://komarev.com/ghpvc/?username=sonee-shailendra" alt="sonee-shailendra" />
+  <img text-align="center" src="https://komarev.com/ghpvc/?username=sonee-shailendra" alt="sonee-shailendra" />
 
 
 ---
