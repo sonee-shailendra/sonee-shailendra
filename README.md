@@ -38,7 +38,8 @@
 
 ### Other Languages I know
 <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+
+⭐️ From [@sonee-shailendra](https://github.com/sonee-shailendra
 
 ---
 
