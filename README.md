@@ -1,9 +1,9 @@
 <h2> Hi, I'm Shailendra Sonee !! </h2> </br>
 
   
-<!--<img width="35%" height="40%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" /> -->
+<img width="35%" height="40%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
-<img width="35%" height="40%" align="right" alt="Github" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<!--<img width="35%" height="40%" align="right" alt="Github" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
 
 - ✨ I am a **software engineer** with more than 9 years of experience.
 - 🔭 I’m currently working as a Senior Consultant at <a href="https://www.lumen.com/en-in/home.html">LUMEN India</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
@@ -18,10 +18,10 @@
 
 ### Tech & Tools Preference
 
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=JAVA&logoColor=white"> <img src="http://img.shields.io/badge/-Java_EE-F89820?style=flat&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/-Spring_MVC-6DB33F?style=flat&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white">
+  <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=JAVA&logoColor=white"> <img src="http://img.shields.io/badge/-Java_EE-F89820?style=flat&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/-Spring_MVC-6DB33F?style=flat&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white">
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff"></br>
-<img src="http://img.shields.io/badge/-Microsoft%20Azure-4285F4?style=flat&logo=google%20cloud&logoColor=white">
+  <img src="http://img.shields.io/badge/-Microsoft%20Azure-4285F4?style=flat&logo=google%20cloud&logoColor=white">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-postgreSQL-0064a5?style=flat&logo=postgreSQL&logoColor=white"> 
