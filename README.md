@@ -20,11 +20,16 @@
 ### 👨‍💻 Tech & Tools Preference
 
 <br />
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=JAVA&logoColor=white"> <img src="http://img.shields.io/badge/-Java_EE-F89820?style=flat&logo=JAVA&logoColor=white"> <img src="https://img.shields.io/badge/-Spring_MVC-6DB33F?style=flat&logo=spring&logoColor=white"> <img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white">
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=JAVA&logoColor=white">
+<img src="http://img.shields.io/badge/-Java_EE-F89820?style=flat&logo=JAVA&logoColor=white">
+<img src="https://img.shields.io/badge/-Spring_MVC-6DB33F?style=flat&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat&logo=spring&logoColor=white">
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 
-  <img src="http://img.shields.io/badge/-Microsoft%20Azure-4285F4?style=flat&logo=google%20cloud&logoColor=white">
+<img src="http://img.shields.io/badge/-Microsoft%20Azure-4285F4?style=flat&logo=google%20cloud&logoColor=white">
 <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-MySQL-F29111?style=flat&logo=mysql&logoColor=FFFFFF">
 <img src="https://img.shields.io/badge/-postgreSQL-0064a5?style=flat&logo=postgreSQL&logoColor=white"> 
