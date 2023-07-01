@@ -1,7 +1,9 @@
 <h2> Hi, I'm Shailendra Sonee !! </h2> </br>
 
   
-<img width="35%" height="40%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
+<!--<img width="35%" height="40%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" /> -->
+
+<img width="35%" height="40%" align="right" alt="Github" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
 - ✨ I am a **software engineer** with more than 9 years of experience.
 - 🔭 I’m currently working as a Senior Consultant at <a href="https://www.lumen.com/en-in/home.html">LUMEN India</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
