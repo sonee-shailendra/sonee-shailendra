@@ -47,7 +47,7 @@
 
 ### My Stats on GitHub
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=sonee-shailendra)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sonee-shailendra&theme=dark)](https://git.io/streak-stats)
 
 ⭐️ From [@sonee-shailendra](https://github.com/sonee-shailendra)
 
