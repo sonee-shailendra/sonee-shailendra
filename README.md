@@ -6,8 +6,8 @@
 <!--<img width="35%" height="40%" align="right" alt="Github" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" /> -->
 <p>
   <em>
-- ✨ I am a **software engineer** with more than 9 years of experience.
-- 🔭 I’m currently working as a Senior Consultant at <a href="https://www.lumen.com/en-in/home.html">LUMEN India</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- ✨ I am a **software engineer** with more than 9 years of experience.<br>
+- 🔭 I’m currently working as a Senior Consultant at <a href="https://www.lumen.com/en-in/home.html">LUMEN India</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"><br>
 - 📍  I'm currently based at Noida, India.
 </em></p>
 
