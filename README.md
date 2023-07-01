@@ -1,11 +1,17 @@
 ### Hi there I am @**sonee-shailendra**👋
 
-
+--------------------------------------------------------------------------------------------------------------------------------
 
 <img width="35%" align="right" alt="Github" src="https://user-images.githubusercontent.com/48678280/88862734-4903af80-d201-11ea-968b-9c939d88a37c.gif" />
 
 - ✨ I am a **software engineer** with more than 9 years of experience.
 - 🔭 I’m currently currently working as a senior consultant at LUMEN India.
+
+
+
+
+
+
 
 <!--
 **sonee-shailendra/sonee-shailendra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
